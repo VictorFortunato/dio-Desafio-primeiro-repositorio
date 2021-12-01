@@ -1,0 +1,7 @@
+Git init - This will transform the current directory into a Git repository. A .git sub-directory will be added. This will allow you to start recording multiple versions of your project.
+Git Clone - The git clone command is used to download the source code from a remote repository 
+Git Branch - Branch is one of the most important functionalities of Git. This allows teams to work on the same code base in parallel. It enables teams to create Git Workflows and make their workflows more efficient.
+Git Add - Every time you create a new file, delete it, or make a change, you’ll have to tell Git to track it and add it to the staging area. Otherwise, the files you made changes to wouldn’t be added when you try to push your changes
+Git Commit - Every time you commit your code changes, you’ll also include a message to briefly describe the changes you made. This helps other team members quickly understand what was added, changed, or removed.
+Git Push - To make all your committed changes available to your teammates, you’ll have to push them to the remote origin.
+Git Pull - The git pull command allows you to fetch all the changes that your teammates pushed and automatically merge them into your local repo.

@@ -1,0 +1,67 @@
+Anotações do curso web development Udemy
+Link - https://www.udemy.com/share/101WLW3@XPVBwu55tP1BG2_7CkZIFCT_gWNd2A6NkDktfN5LFsdbuMq0zhZOaCuKIxv4Knjoqg==/
+
+head - configuracoes
+body- aparece
+h1 - titulo de nivel 1
+p - paragrafo
+style - estilo do site!
+
+conteudo - html
+estilo - css
+interatividade - javascript
+===============================================
+Maiusculas e minisculas fazem diferenca
+a diferente de 
+Nomes coerentes
+==============================================
+DATATYPES
+Number - Infinity e NaN(Not a Number)
+String
+Boolean
+null
+undefined
+object
+function
+
+typeof
+=====================================================
+ 
+"+" - Concatenacao
+Conversao de string para numeros
+Number.parseInt(n)
+Number.parseFloat(n)
+Number(n)
+
+Conversao para String
+String(n)
+n.toString()
+
+Templates String 
+var n = `JavaScript`
+Estou aprendendo ${n}`
+//Para funcionar é necessario estar entre crase
+
+Conversao number
+n1 = 1545.5
+n1.toFixed(2)
+1545.50
+n1.toFixed(2).replace(`.` , `,`)
+1545,50
+n1.toLocaleString(`pt-BR`, `currency`, currency: `BRL`)
+R$ 1,545.50
+
+==========================================
+Arvore DOM
+		window
+location	document		history
+		html
+	      head-----body
+
+Metodos de acesso a elementos
+Por marca getElementsByTagName
+ID getElementById()
+Nome getlementsByName()
+Classe getElementsByClassName()
+Seletor
+
